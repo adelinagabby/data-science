@@ -1,5 +1,5 @@
 # 6. Выбор локации для скважины
-Расположено в папке customer_outflow
+Расположено в папке choosing_the_location_for_the_well
 
 ## Описание проекта
 
