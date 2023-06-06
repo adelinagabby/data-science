@@ -1,6 +1,24 @@
+# Расположение проектов
 
+<table>
+<tr><th>№</th><th>Название</th><th>Расположение в папке</th><th>Статус</th></tr>
+ <tr><td>13</td><td>Промышленность</td><td>industry</td><td>Завершен</td></tr> 
+ <tr><td>12</td><td>Определение возраста покупателей</td><td>determining_the_age_of_buyers</td><td>Завершен</td></tr> 
+ <tr><td>11</td><td>Проект для «Викишоп»</td><td>project_for_Wikishop</td><td>Завершен</td></tr> 
+ <tr><td>10</td><td>Прогнозирование заказов такси</td><td>forecasting_taxi_orders</td><td>Завершен</td></tr> 
+ <tr><td>9</td><td>Определение стоимости автомобилей</td><td>determining_the_cost_of_cars</td><td>Завершен</td></tr> 
+ <tr><td>8</td><td>Защита персональных данных клиентов</td><td>protection_of_personal_data_of_clients</td><td>Завершен</td></tr> 
+ <tr><td>7</td><td>Восстановление золота из руды</td><td>recovery_of_gold_from_ore</td><td>Завершен</td></tr> 
+ <tr><td>6</td><td>Выбор локации для скважины</td><td>choosing_the_location_for_the_well</td><td>Завершен</td></tr> 
+ <tr><td>5</td><td>Отток клиентов</td><td>customer_outflow</td><td>Завершен</td></tr> 
+ <tr><td>4</td><td>Рекомендация тарифов</td><td>recommendation_of_tariffs</td><td>Завершен</td></tr> 
+ <tr><td>3</td><td>Исследование продаж игр интернет-магазина «Стримчик»</td><td>online_store_game_sales_research</td><td>Завершен</td></tr> 
+ <tr><td>2</td><td>Исследование объявлений о продаже квартир</td><td>research_of_ads_for_the_sale_of_apartments</td><td>Завершен</td></tr> 
+ <tr><td>1</td><td>Исследование надежности заемщиков</td><td>investigation_of_the_reliability_of_borrowers</td><td>Завершен</td></tr> 
+</table>
 
-# 13. Промышленность — задача проекта
+# Описание проектов
+# 13. Промышленность 
 Расположено в папке industry
 ## Описание проекта
 На металлургическом комбинате ООО «Так закаляем сталь» сталь обрабатывают в металлическом ковше вместимостью около 100 тонн. Чтобы ковш выдерживал высокие температуры, изнутри его облицовывают огнеупорным кирпичом. Расплавленную сталь заливают в ковш и подогревают до нужной температуры графитовыми электродами. Они установлены в крышке ковша.
