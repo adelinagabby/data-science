@@ -17,7 +17,7 @@
  <tr><td>2</td><td>Исследование объявлений о продаже квартир</td><td>research_of_ads_for_the_sale_of_apartments</td><td>Завершен</td></tr> 
  <tr><td>1</td><td>Исследование надежности заемщиков</td><td>investigation_of_the_reliability_of_borrowers</td><td>Завершен</td></tr> 
 </table>
-<hr>
+<br>
 <br>
 
 
