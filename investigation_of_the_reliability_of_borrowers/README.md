@@ -1,4 +1,5 @@
-<div style="width: 70%; height: 50px; border:1px solid; margin:auto;">Завершен</div>
+<div style="color: #00FF00; width: 70%; height: 50px; border:1px solid; margin:auto;">Завершен</div>
+
 # Исследование надежности заемщиков
 
 Необходимо определить, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок.
